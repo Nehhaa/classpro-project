@@ -1,0 +1,23 @@
+{
+  "name": "classpro",
+  "version": "0.1.0",
+  "description": "my ticket to get a good job",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "classpro",
+    "student",
+    "database",
+    "blog"
+  ],
+  "author": "Neha desai  nehad970@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.7",
+    "hbs": "^2.8.0"
+  },
+  "devDependencies": {}
+}
